@@ -1,4 +1,5 @@
 ---
+allowed-tools: Bash(ls:*), Bash(cp:*), Bash(mkdir:*), Bash(chmod:*), Bash(find:*), Read, Write, Edit
 description: 병렬 AI 에이전트 개발 자동화 아키텍처를 설치합니다. 글로벌 또는 프로젝트 레벨 선택 가능.
 ---
 

@@ -1,4 +1,5 @@
 ---
+allowed-tools: Bash(ls:*), Bash(grep:*), Bash(find:*), Glob, Grep, Read
 description: 프로젝트의 모든 verify 스킬을 순차 실행하여 통합 검증 보고서를 생성합니다
 argument-hint: "[선택사항: 특정 verify 스킬 이름]"
 ---

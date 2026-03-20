@@ -1,4 +1,5 @@
 ---
+allowed-tools: Bash(ls:*), Bash(git diff:*), Bash(git log:*), Bash(git status:*), Glob, Grep, Read, Write, Edit
 description: 세션 변경사항을 분석하여 검증 스킬 누락을 탐지하고, 새 스킬을 생성하거나 기존 스킬을 업데이트합니다
 argument-hint: "[선택사항: 특정 스킬 이름 또는 집중할 영역]"
 ---
